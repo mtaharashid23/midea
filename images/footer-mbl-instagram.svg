@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+                    <linearGradient id="igradient" gradientUnits="userSpaceOnUse" x1="-466.261" y1="488.045" x2="-464.678" y2="490.183" gradientTransform="matrix(22 0 0 -22 10248 10776)">
+                        <stop offset="0" stop-color="#ffffff"></stop>
+                        <stop offset="1" stop-color="#ffffff"></stop>
+                    </linearGradient>
+                    <mask id="inst-icon-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+                        <path d="M15.1 0C18.9 0 22 3.1 22 6.9v8.2c0 3.8-3.1 6.9-6.9 6.9H6.9C3.1 22 0 18.9 0 15.1V6.9C0 3.1 3.1 0 6.9 0h8.2zm-3.9 5.6c-3.1 0-5.6 2.5-5.6 5.6s2.5 5.6 5.6 5.6 5.6-2.5 5.6-5.6-2.5-5.6-5.6-5.6zm0 9.1c-1.9 0-3.5-1.6-3.5-3.5s1.6-3.5 3.5-3.5 3.5 1.6 3.5 3.5-1.6 3.5-3.5 3.5zM16.8 6c.4 0 .8-.4.8-.8s-.4-.8-.8-.8-.8.4-.8.8.4.8.8.8z" fill="#fff"></path>
+                    </mask>
+                    <g mask="url(#inst-icon-mask)">
+                        <rect x="0" y="0" width="29" height="29" fill="white"></rect>
+                        <rect id="inst-gradient" x="0" y="0" width="29" height="29" fill="url(#igradient)"></rect>
+                    </g>
+                </svg>
