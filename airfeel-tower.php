@@ -1,9 +1,9 @@
-<?php $title = "Laundry";
+<?php $title = "Airfeel Tower";
 include 'include/head.php' ?>
 
 <body class="page common-page basicpage bg-white" id="page-1447f5b30d" data-cmp-data-layer-enabled data-site="global"
     data-bazaarvoice="N" data-write-review-url="#">
-    <h1 class="visibilityHidden">Laundry</h1>
+    <h1 class="visibilityHidden">Airfeel Tower</h1>
     <div class="root container responsivegrid">
         <div id="container-eb2df70fdb" class="cmp-container">
             <div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
@@ -23,64 +23,50 @@ include 'include/head.php' ?>
                     <div id="container-64881185f7" class="cmp-container">
                         <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
                             <div class="md-container aem-GridColumn aem-GridColumn--default--12">
-                                <div id="breadcrumb-afbe83fbd1"
+                                <div id="breadcrumb-5e333727cf"
                                     class="product-registration-nav breadcrumbs-product breadcrumbs-black"
                                     vocab="http://schema.org/" typeof="BreadcrumbList">
                                     <span typeof="ListItem">
-                                        <a property="item" typeof="WebPage" title="Midea Global" href="index.php"
-                                            class="home">
-                                            <span property="name">Midea Global</span>
+                                        <a property="item" typeof="WebPage" title="Home" href="index.php" class="home">
+                                            <span property="name">Home</span>
                                         </a>
                                         <meta property="position" content="0" />
                                     </span>
                                     <span class="delimiter">»</span>
                                     <span typeof="ListItem">
-                                        <a property="item" typeof="WebPage" title=" Laundry" href="laundry.php"
-                                            class="taxonomy product-category" target="_self">
-                                            <span property="name"> Laundry</span>
+                                        <a property="item" typeof="WebPage" title="Air Conditioner"
+                                            href="air-conditioner.php" class="taxonomy product-category" target="_self">
+                                            <span property="name">Air Conditioner</span>
                                         </a>
                                         <meta property="position" content="1" />
                                     </span>
                                     <span class="delimiter">»</span>
                                     <span typeof="ListItem">
-                                        <a property="item" typeof="WebPage" title="Top Loading Washer"
+                                        <a property="item" typeof="WebPage" title="Airfeel Tower"
                                             class="post post-product current-item">
-                                            <span property="name"> Top Loading Washer</span>
+                                            <span property="name">Airfeel Tower</span>
                                         </a>
                                         <meta property="position" content="2" />
                                     </span>
                                 </div>
                             </div>
                             <div class="banner aem-GridColumn aem-GridColumn--default--12">
-                                <div id="home-comtainer-swiperbanner-b7822f26b5"
-                                    class="swiper-container home-comtainer-swiper banner-space">
+
+
+                                <div id="home-comtainer-swiperbanner-ffd4445ea2"
+                                    class="swiper-container home-comtainer-swiper   banner-space">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="support-banner">
-                                                <div class="bg mask-bg text-left content-center none white ">
-                                                    <div class="textInfo-bg">
-                                                        <div class="text-mark">
-                                                            <div class="textInfo">
-                                                                <div class="richtxt-title banner-title">
-                                                                    <h2>Top Loading Washer</h2>
-                                                                </div>
-                                                                <div class="richtxt-description banner-subtitle">
-                                                                    <p><b>User friendly design, powerful water flows,
-                                                                            plus reliable quality and durability.</b>
-                                                                    </p>
-                                                                </div>
+                                                <div class="bg  text-left content-left none white ">
 
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                     <picture>
                                                         <source
                                                             media="(max-width:640px), (max-aspect-ratio:1/1) and (max-width: 1200px)"
-                                                            srcset="images/laundry-mbl-bg.jpg"
-                                                            data-srcset="images/laundry-mbl-bg.jpg" />
-                                                        <img src="images/laundry-bg.jpeg"
-                                                            data-src="images/laundry-bg.jpeg"
-                                                            alt="Top Loading Washer"
+                                                            srcset="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAaAA8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooA//9k="
+                                                            data-srcset="https://midea.com/content/dam/midea-aem/westafrica/air-conditioner/airfeel-tower/kv1-m.jpg" />
+                                                        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAPACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooA//9k="
+                                                            data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/westafrica/air-conditioner/airfeel-tower/kv1.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
                                                             class="banner-img swiper-lazy lazyload" />
                                                     </picture>
                                                     <div class=" mask">
@@ -96,22 +82,20 @@ include 'include/head.php' ?>
                                 <!-- product list test-->
 
                                 <!-- product list start-->
-                                <div id="product-list--1885376967" data-fix-list="N" setcompare="/global/compare"
-                                    category="/content/midea-aem/global/laundry/top-loading-washer"
-                                    class="product-list gap product-list-contariner">
+                                <div id="product-list--1885376967" class="product-list gap product-list-contariner">
                                     <div class="md-container">
                                         <div class="sorter-holder">
-                                            <div class="sorted-qty"><span>1 of 1</span></div>
+                                            <div class="sorted-qty"><span>8 of 8</span></div>
                                         </div>
                                         <div class="pagination-block">
                                             <div class="pagination-block__page products-listing">
                                                 <div class="product">
                                                     <div class="product-color-item active">
-                                                        <div><a href=""
-                                                                class="product-color-item-imgs swiper-container">
+                                                        <div>
+                                                            <a href="" class="product-color-item-imgs swiper-container">
                                                                 <div class="swiper-wrapper">
-                                                                    <div class="image-holder swiper-slide"><img
-                                                                            src="images/laundry-product1.png">
+                                                                    <div class="image-holder swiper-slide">
+                                                                        <img src="images/laundry-product1.png">
                                                                     </div>
                                                                     <div class="image-holder swiper-slide"><img
                                                                             src="images/laundry-product2.png">
@@ -125,7 +109,7 @@ include 'include/head.php' ?>
                                                                 <div class="arrow_next"></div>
                                                             </a>
                                                             <div class="description-holder"><a href=""
-                                                                    class="product-title">Top Loading Washer MA200</a>
+                                                                    class="product-title">Product Title MA200</a>
                                                                 <div class="model">
                                                                     Model number:
                                                                     <span class="code">MA200</span>
@@ -141,9 +125,8 @@ include 'include/head.php' ?>
                                                         </div>
                                                         <div>
                                                             <div class="action">
-                                                                <a href=""
-                                                                    class="btn btn_blue">
-                                                                    Learn More
+                                                                <a href="product-detail.php" class="btn btn_blue">
+                                                                    Shop Now
                                                                 </a>
                                                                 <div class="form-group checkbox-group"><input
                                                                         type="checkbox"
@@ -152,11 +135,11 @@ include 'include/head.php' ?>
                                                                         for="ea78fdd6-f393-34cd-8acf-83e5aaa0b2580"><span>Compare</span></label>
                                                                 </div>
                                                             </div>
-                                                        </div>                                                        
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>                                        
+                                        </div>
                                     </div>
                                     <div class="compare-popup">
                                         <div class="hide-btn"></div>
@@ -167,10 +150,10 @@ include 'include/head.php' ?>
                                                 <div class="mobile">
                                                     0 Product In compare<span class="mobile-clear">Clear</span></div> <a
                                                     href="" class="btn btn_blue">Compare</a>
-                                            </div>                                            
+                                            </div>
                                         </div>
                                     </div>
-                                </div>                                
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -7,3 +7,4 @@
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.13/dist/lenis.css">
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/midea.css" />
+    <link rel="stylesheet" href="css/custom.min.css" />

@@ -1,0 +1,93 @@
+.productForm h3 {
+  font-size: 1.75em;
+  margin-bottom: 0.5em;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.productForm :is(input) {
+  display: block;
+  width: 100%;
+  padding: 0.8em 1.25em;
+  border: 1px solid #000000;
+  background: #ffffff;
+  margin-bottom: 1em;
+  border-radius: 3vw;
+}
+
+.productForm .themeBtn {
+  outline: none;
+  border: none;
+  background: #1f94d2;
+  padding: 0.8em 1.25em;
+  font-size: 1em;
+  color: var(--wsc-pagination-btn-actived-font-color);
+  font-family: HCo Gotham, sans-serif;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 3vw;
+}
+
+header .logo {
+  font-size: 10px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+header .logo span {
+  width: max-content;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.4;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+footer .footer_sponsors_img {
+  width: 70%;
+}
+
+.support-faq .md-container .listMain .list .listRight .text1 {
+  text-transform: uppercase;
+}
+
+.support-faq .md-container .listMain .list.suport-one {
+  flex: unset;
+}
+
+.fixedFoter {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 1.5rem;
+  z-index: 9;
+}
+
+.fixedFoter .whatsap {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+  background-position: center;
+  background-size: 35px 35px;
+  background-repeat: no-repeat;
+  background: #25d366;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  font-size: 2rem;
+}
+
+.fixedFoter .whatsap img.img-fluid {
+  width: 61%;
+  filter: brightness(0) invert(1);
+}

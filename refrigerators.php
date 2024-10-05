@@ -1,9 +1,9 @@
-<?php $title = "Laundry";
+<?php $title = "Refrigerator";
 include 'include/head.php' ?>
 
 <body class="page common-page basicpage bg-white" id="page-1447f5b30d" data-cmp-data-layer-enabled data-site="global"
     data-bazaarvoice="N" data-write-review-url="#">
-    <h1 class="visibilityHidden">Laundry</h1>
+    <h1 class="visibilityHidden">Refrigerator</h1>
     <div class="root container responsivegrid">
         <div id="container-eb2df70fdb" class="cmp-container">
             <div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
@@ -20,10 +20,10 @@ include 'include/head.php' ?>
                     </div>
                 </div>
                 <div class="container responsivegrid main aem-GridColumn aem-GridColumn--default--12">
-                    <div id="container-8f49b9acd1" class="cmp-container">
+                    <div id="container-8a98c40f34" class="cmp-container">
                         <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
                             <div class="md-container aem-GridColumn aem-GridColumn--default--12">
-                                <div id="breadcrumb-b81ea784e5"
+                                <div id="breadcrumb-2d8276587b"
                                     class="product-registration-nav breadcrumbs-product breadcrumbs-black"
                                     vocab="http://schema.org/" typeof="BreadcrumbList">
                                     <span typeof="ListItem">
@@ -31,21 +31,21 @@ include 'include/head.php' ?>
                                             class="home">
                                             <span property="name">Midea Serra leone</span>
                                         </a>
-                                        <meta property="position" content="0">
+                                        <meta property="position" content="0" />
                                     </span>
                                     <span class="delimiter">»</span>
                                     <span typeof="ListItem">
-                                        <a property="item" typeof="WebPage" title="Laundry"
+                                        <a property="item" typeof="WebPage" title=" Refrigerator"
                                             class="post post-product current-item">
-                                            <span property="name"> Laundry</span>
+                                            <span property="name"> Refrigerator</span>
                                         </a>
-                                        <meta property="position" content="1">
+                                        <meta property="position" content="1" />
                                     </span>
                                 </div>
                             </div>
                             <div class="banner aem-GridColumn aem-GridColumn--default--12">
-                                <div id="home-comtainer-swiperbanner-84909c3dfc"
-                                    class="swiper-container home-comtainer-swiper banner-space">
+                                <div id="home-comtainer-swiperbanner-27ca0dbd4a"
+                                    class="swiper-container home-comtainer-swiper   banner-space">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="support-banner">
@@ -54,16 +54,13 @@ include 'include/head.php' ?>
                                                         <div class="text-mark">
                                                             <div class="textInfo">
                                                                 <div class="richtxt-title banner-title">
-                                                                    <h2><span style="color: rgb(0,153,218);">Laundry
-                                                                            Care&nbsp;</span></h2>
-                                                                    <h2><span style="color: rgb(0,153,218);">Health
-                                                                            Guard</span></h2>
+                                                                    <h2><span
+                                                                            style="color: rgb(0,153,218);">Refrigerator</span>
+                                                                    </h2>
                                                                 </div>
                                                                 <div class="richtxt-description banner-subtitle">
-                                                                    <p><b>With our fascinating products and advanced
-                                                                            technologies, Midea Laundry always serves as
-                                                                            your best family HealthGuard and meets all
-                                                                            your needs in laundry care.&nbsp;</b></p>
+                                                                    <p><b>Bring nature home, makes a natural and fresh
+                                                                            life for you and your family.</b></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -71,12 +68,12 @@ include 'include/head.php' ?>
                                                     <picture>
                                                         <source
                                                             media="(max-width:640px), (max-aspect-ratio:1/1) and (max-width: 1200px)"
-                                                            srcset="images/laundry-mbl-bg.jpg"
-                                                            data-srcset="images/laundry-mbl-bg.jpg">
-                                                        <img src="images/laundry-bg.jpeg"
-                                                            data-src="images/laundry-bg.jpeg"
-                                                            alt="Laundry Care Health Guard"
-                                                            class="banner-img swiper-lazy ls-is-cached lazyloaded">
+                                                            srcset="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAaAA8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooA//9k="
+                                                            data-srcset="https://midea.com/content/dam/midea-aem/global/refrigerators/kv1-m.jpg" />
+                                                        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAPACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooA//9k="
+                                                            data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/global/refrigerators/kv1.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
+                                                            alt="Refrigerator"
+                                                            class="banner-img swiper-lazy lazyload" />
                                                     </picture>
                                                     <div class=" mask">
                                                     </div>
@@ -93,26 +90,24 @@ include 'include/head.php' ?>
                                         <div class="gws-img">
                                             <picture>
                                                 <source media="(max-width:767px)"
-                                                    data-srcset="images/laundry-img1.png"
-                                                    srcset="images/laundry-img1.png">
-                                                <img data-src="images/laundry-img1.png"
-                                                    alt="Top Loading Washer" lazysize="1/1" lazyload="1/1"
-                                                    src="images/laundry-img1.png"
-                                                    class=" ls-is-cached lazyloaded">
+                                                    data-srcset="https://midea.com/content/dam/midea-aem/global/refrigerators/banner1.png" />
+                                                <img data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/global/refrigerators/banner1.png/jcr:content/renditions/cq5dam.compression.png"
+                                                    alt="Multi-door Refrigerator" lazysize="1/1" lazyload="1/1"
+                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR42mNgAAIAAAUAAen63NgAAAAASUVORK5CYII="
+                                                    class="lazyload" />
                                             </picture>
                                         </div>
                                     </div>
                                     <div class="gws-teaserV3-content">
                                         <div class="gws-teaserV3-title">
-                                            <p>Top Loading Washer</p>
+                                            <p>Multi-door Refrigerator</p>
                                         </div>
                                         <div class="gws-teaserV3-desc">
-                                            <p>User friendly design, powerful water flows, plus reliable quality and
-                                                durability.</p>
+                                            <p>Touching Cool Life. Enjoy a cool lifestyle with one touch. Customized
+                                                freshness and sufficient ice lead more happiness to your family.</p>
                                         </div>
                                         <div class="gws-teaserV3-operate">
-                                            <a class="gws-teaserV3-action" href="product.php"
-                                                target="_self">Shop Now</a>
+                                            <a class="gws-teaserV3-action" href="product.php" target="_self">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -124,27 +119,24 @@ include 'include/head.php' ?>
                                         <div class="gws-img">
                                             <picture>
                                                 <source media="(max-width:767px)"
-                                                    data-srcset="images/laundry-img2.png"
-                                                    srcset="images/laundry-img2.png">
-                                                <img data-src="images/laundry-img2.png"
-                                                    alt="Front Loading Washer" lazysize="1/1" lazyload="1/1"
-                                                    src="images/laundry-img2.png"
-                                                    class=" ls-is-cached lazyloaded">
+                                                    data-srcset="https://midea.com/content/dam/midea-aem/global/refrigerators/banner2.jpg" />
+                                                <img data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/global/refrigerators/banner2.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
+                                                    alt="Top Mounted Refrigerator" lazysize="1/1" lazyload="1/1"
+                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR42mNgAAIAAAUAAen63NgAAAAASUVORK5CYII="
+                                                    class="lazyload" />
                                             </picture>
                                         </div>
                                     </div>
                                     <div class="gws-teaserV3-content">
                                         <div class="gws-teaserV3-title">
-                                            <p>Front Loading Washer</p>
+                                            <p>Top Mounted Refrigerator</p>
                                         </div>
                                         <div class="gws-teaserV3-desc">
-                                            <p>Equipped with multiple programs, useful functions and advanced
-                                                technologies, Midea front loading washer ensures extraordinary laundry
-                                                care through enhanced cleaning and sterilization performance.</p>
+                                            <p>Smart⁺ Cooling Midea Meet Series. Sense changes of outside and inside
+                                                temperature actively with smart sensors.</p>
                                         </div>
                                         <div class="gws-teaserV3-operate">
-                                            <a class="gws-teaserV3-action" href="product.php"
-                                                target="_self">Shop Now</a>
+                                            <a class="gws-teaserV3-action" href="product.php" target="_self">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -156,28 +148,24 @@ include 'include/head.php' ?>
                                         <div class="gws-img">
                                             <picture>
                                                 <source media="(max-width:767px)"
-                                                    data-srcset="images/laundry-img3.jpg">
-                                                <img data-src="images/laundry-img3.jpg"
-                                                    alt=" High Back Control Top Loading Washer" lazysize="1/1"
-                                                    lazyload="1/1"
-                                                    src="images/laundry-img3.jpg"
-                                                    class="lazyload">
+                                                    data-srcset="https://midea.com/content/dam/midea-aem/global/refrigerators/banner3.jpg" />
+                                                <img data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/global/refrigerators/banner3.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
+                                                    alt="Bottom Mounted Refrigerator" lazysize="1/1" lazyload="1/1"
+                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR42mNgAAIAAAUAAen63NgAAAAASUVORK5CYII="
+                                                    class="lazyload" />
                                             </picture>
                                         </div>
                                     </div>
                                     <div class="gws-teaserV3-content">
                                         <div class="gws-teaserV3-title">
-                                            <p> High Back Control Top Loading Washer</p>
+                                            <p>Bottom Mounted Refrigerator</p>
                                         </div>
                                         <div class="gws-teaserV3-desc">
-                                            <p>High back control panel and super-narrow edge transparent lid design.
-                                                Larger window provides a dynamic view of washing process, and deep clean
-                                                programs offer all-round washing treatment.</p>
+                                            <p>Easy Life Assistant Midea Combi. Enjoy easy and convenient life with a
+                                                smart TFT screen.</p>
                                         </div>
                                         <div class="gws-teaserV3-operate">
-                                            <a class="gws-teaserV3-action"
-                                                href="product.php"
-                                                target="_self">Shop Now</a>
+                                            <a class="gws-teaserV3-action" href="product.php" target="_self">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -189,25 +177,25 @@ include 'include/head.php' ?>
                                         <div class="gws-img">
                                             <picture>
                                                 <source media="(max-width:767px)"
-                                                    data-srcset="images/laundry-img4.png">
-                                                <img data-src="images/laundry-img4.png"
-                                                    alt="Twin Tub Washer" lazysize="1/1" lazyload="1/1"
-                                                    src="images/laundry-img4.png"
-                                                    class="lazyload">
+                                                    data-srcset="https://midea.com/content/dam/midea-aem/global/refrigerators/banner4.jpg" />
+                                                <img data-src="https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/global/refrigerators/banner4.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
+                                                    alt="Chest Freezer" lazysize="1/1" lazyload="1/1"
+                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR42mNgAAIAAAUAAen63NgAAAAASUVORK5CYII="
+                                                    class="lazyload" />
                                             </picture>
                                         </div>
                                     </div>
                                     <div class="gws-teaserV3-content">
                                         <div class="gws-teaserV3-title">
-                                            <p>Twin Tub Washer</p>
+                                            <p>Chest Freezer</p>
                                         </div>
                                         <div class="gws-teaserV3-desc">
-                                            <p>The independent big and small pulsators generate different water flows to
-                                                fully clean the laundry.<br></p>
+                                            <p>Extra Space for Life SOLO SERIES Chest Freezer. The solution for more
+                                                storage space, more personal storage space and more suitable storage for
+                                                myself.</p>
                                         </div>
                                         <div class="gws-teaserV3-operate">
-                                            <a class="gws-teaserV3-action" href="product.php"
-                                                target="_self">Shop Now</a>
+                                            <a class="gws-teaserV3-action" href="product.php" target="_self">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
